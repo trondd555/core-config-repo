@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="rattlesnakeos" fetch="https://github.com/rattlesnakeos/" revision="11.0" />
-  <remote name="trondd555" fetch="https://github.com/trondd555/" revision="11.0" />
+  <remote name="trondd555" fetch="https://github.com/trondd555/" revision="barbet" />
 
 
   <project path="vendor/core" name="core" remote="rattlesnakeos" />
