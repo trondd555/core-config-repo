@@ -4,7 +4,7 @@
   <remote name="trondd555" fetch="https://github.com/trondd555/" revision="barbet" />
 
 
-  <project path="vendor/core" name="core" remote="trondd555" />
+  <project path="vendor/core" name="core" remote="rattlesnakeos" />
   <project path="vendor/android-prepare-vendor" name="android-prepare-vendor" remote="trondd555" />
-  <project path="packages/apps/Updater" name="platform_packages_apps_Updater" remote="trondd555" />
+  <project path="packages/apps/Updater" name="platform_packages_apps_Updater" remote="rattlesnakeos" />
 </manifest>
